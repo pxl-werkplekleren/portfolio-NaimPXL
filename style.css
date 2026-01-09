@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background-color: #f9f9f9;
 }
@@ -94,3 +98,15 @@ table
   margin-bottom: 0.3rem;
 }
 
+.x-factor {
+  max-width: 66.67vw;
+  margin: 2rem auto;
+}
+
+.xElement {
+  margin-bottom: 2rem;
+}
+
+.xElement h3 {
+  margin-top: 0;
+}
